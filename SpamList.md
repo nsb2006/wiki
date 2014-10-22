@@ -22,5 +22,7 @@
 |satxuxiaofei@gmail.com | 清华大学电子系五毛，喜好刷屏+辱骂。|
 |41makino@gmail.com | 自干五，声称 phuslu 是美分版主 |
 |giftmoneyplus@gmail.com | 41makino 小号 |
+|xiaobaiyang258@gmail.com | 脑残五，使用反占中和侮辱性词汇刷屏 |
+
 
 疑似待定的邮箱有：
