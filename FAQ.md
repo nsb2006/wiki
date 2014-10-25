@@ -45,7 +45,7 @@
 > 目前 goagent 最新版是支持的，在 proxy.ini 中的配置多个 appid 即可。
 
 1. 如何防止 appid 被别人盗用？
-> 请看 <https://goagent.github.io/?/wiki/FAQ.md> 。
+> 请看 <https://goagent.github.io/?/wiki/SetPassword.md> 。
 
 1. 如何使用 php 模式？
 > 申请一个免费的 php 空间，然后通过在线代码编辑器或者 ftp 客户端把 index.php 上传到你申请到 php 网站的根目录。
